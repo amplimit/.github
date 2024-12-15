@@ -1,4 +1,4 @@
-# 🚀 Amplimit
+# 🚀 Amplimit AI | 乘元科技
 
 Pioneering AI-driven FinTech and Quant trading solutions with full-stack capabilities.
 
