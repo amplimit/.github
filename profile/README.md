@@ -7,7 +7,7 @@ Pioneering AI-driven FinTech and Quant trading solutions with full-stack capabil
 - **AI-Powered Trading**: Leveraging NLP & Computer Vision for market analysis
 - **Quantitative Strategies**: Both AI-enhanced and classical approaches
 - **FinTech Solutions**: Full-stack financial technology applications
-- **Non-Prifit**
+- **Non-Profit**
 
 ## 💻 Tech Stack
 
